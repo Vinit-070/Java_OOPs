@@ -4,7 +4,6 @@ Author : Vinit Patel.
       method display() and abstract method subject_list().
     -  Create subclass CE and EE which implements the method subject_list()
     -  Write a program to display subjects offered by CE and EE Departments. 
-
 */ 
 import java.util.*;
 abstract class Department
