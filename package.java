@@ -16,6 +16,8 @@ public class A {
   To Run     : Not possible as  A.java does not contain "public static void main(String[]args)".
 */
 
+//--------------------------------------------------------------------------------------------------
+
 
 // create new file & save by B.java  
 package mypack;
